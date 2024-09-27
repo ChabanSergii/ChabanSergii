@@ -6,7 +6,7 @@
 
 - **Основные технологии:** HTML5, CSS3, JavaScript (для базовой интерактивности)
 - **Методологии верстки:** BEM, Flexbox, CSS Grid
-- **Адаптивная верстка:** Mobile-first подход, медиазапросы, CSS-фреймворки (Bootstrap, Tailwind CSS)
+- **Адаптивная верстка:** Mobile-First/Desktop-First подход, медиазапросы, CSS-фреймворки (Bootstrap, Tailwind CSS)
 - **Оптимизация:** SEO-оптимизация, минимизация CSS/JS, lazy loading для изображений
 - **Инструменты:** Figma, Adobe XD, Photoshop (для работы с макетами)
 - **Кроссбраузерная совместимость:** Тестирование в основных браузерах (Chrome, Firefox, Safari, Edge)
