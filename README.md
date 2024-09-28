@@ -15,7 +15,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&label=%20"> <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red?style=flat"> <img alt="Static Badge" src="https://img.shields.io/badge/%20%20%20-red?style=flat&logo=gulp&logoColor=red&labelColor=white&color=red">
 <img alt="Static Badge" src="https://img.shields.io/badge/SASS-pink?style=flat"> <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-blue?style=flat&logo=python&labelColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabser&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChabanSergii&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Проекты
 
