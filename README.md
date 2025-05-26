@@ -11,14 +11,16 @@
 - **Инструменты:** Figma, Adobe XD, Photoshop (для работы с макетами)
 - **Кроссбраузерная совместимость:** Тестирование в основных браузерах (Chrome, Firefox, Safari, Edge)
 - **Инструменты разработки:** Git, GitHub, Gulp, Prepros
+- **1C Enterprise 8.3:** автоматизация (OneScript/BSL)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&label=%20)
+![1C Enterprise](https://img.shields.io/badge/1C%20Enterprise-FBCE2F?style=flat&logo=1C&logoColor=white&labelColor=white)
 ![HTML](https://img.shields.io/badge/HTML-red?style=flat)
 ![Gulp](https://img.shields.io/badge/%20%20%20-red?style=flat&logo=gulp&logoColor=red&labelColor=white&color=red)
 ![SASS](https://img.shields.io/badge/SASS-pink?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&label=%20)
 ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=flat&logo=python&labelColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChabanSergii&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChabanSergii&layout=donut-vertical&hide=pug&include_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Проекты
 
